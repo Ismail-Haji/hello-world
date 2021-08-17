@@ -1,2 +1,5 @@
 # hello-world
 just another repository
+HI HUMANS,
+I AM ENJOYING GITHUB SO FAR
+A BIG SHOUT OUT TO THE DEVELOPERS !
